@@ -7,7 +7,8 @@ This masking technique can be used on wide number of applications.Dont limit thi
 
 i)First, the color image in RGB format is changed to the Grayscale format. This brings about a significant distinction between the desired and unwanted elements.
 
-![image](https://user-images.githubusercontent.com/59787095/140626557-5cf20d56-16a3-42cf-b1fc-2abc71f1b04e.png)  
+![image](https://user-images.githubusercontent.com/59787095/140626557-5cf20d56-16a3-42cf-b1fc-2abc71f1b04e.png)  ![image](https://user-images.githubusercontent.com/59787095/140626639-4244a213-0ba8-42d3-a4ef-bccf3e7826b5.png)
+
 
 ii)It is followed by applying threshold values to each of the color components. This would lead to a binary image displaying the selected canopy fraction as logical 'one' and the rest of the pixels as binary 'zero'. 
 
